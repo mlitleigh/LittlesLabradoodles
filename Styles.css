@@ -1,0 +1,37 @@
+@charset "utf-8";
+body h1 {
+	color: #CA3C28;
+	font-family: amatic-sc;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 49px;
+	text-transform: capitalize;
+	word-spacing: 1px;
+}
+body p {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	padding-top: 0px;
+	margin-top: 0px;
+	font-weight: 400;
+	font-size: 18px;
+}
+.background {
+	background-image: url(Images_LL/d59a233b62cf44b2bf1ebed57aac24de.png);
+	background-color: #DBB89A;
+}
+
+.background .image {
+	float: left;
+	margin-right: 22px;
+}
+.background .available.puppies {
+	clear: both;
+	top: auto;
+	margin-top: 138px;
+
+}
+.background #title {
+	margin-bottom: -30px;
+	font-size: 0px;
+	text-align: center;
+}
