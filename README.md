@@ -1,4 +1,3 @@
 # LittlesLabradoodles
 Website for puppies
-<br>
-I need help oragnizing the CSS tags to make it easier to work with.</br>
+<br>Need to draw up a design layout for this website
