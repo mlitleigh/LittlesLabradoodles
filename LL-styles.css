@@ -1,0 +1,34 @@
+@charset "utf-8";
+h1  {
+	color: #CA3C28;
+	font-family: amatic-sc;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 49px;
+	text-transform: capitalize;
+	word-spacing: 1px;
+}
+body {
+	background-image: url(../Images/grey%20triangles.png);
+	background-color: #DBB89A;
+}
+.image  {
+	float: left;
+	margin-right: 22px;
+}
+.available.puppies {
+	clear: both;
+	top: auto;
+	margin-top: 138px;
+
+}
+#maintitle  {
+	margin-bottom: -30px;
+	font-size: 0px;
+	text-align: center;
+}
+.maincontent {
+	float: none;
+	clear: none;
+	width: auto;
+}
