@@ -9,9 +9,10 @@
                         font-family: amatic-sc;
                         font-style: normal;
                         font-weight: 700;
-                        font-size: 49px;
+                        font-size: 40px;
                         text-transform: capitalize;
                         word-spacing: 1px;
+                        text-align: center;
                     }
                     
                     #maindivback {
@@ -44,8 +45,11 @@
                     /*to make the pictures in a perfect circle, crop the photos to be squares and set the height and border radius to be the same px*/
                     
                     .availablepuppies {
-                        text-align: center;
                         border: #313131 solid 1px;
+                        width: 1050px;
+                        height: 3500px;
+                        position: relative;
+                        top: 575px;
                     }
                     
                     #avpuppyphotos {
@@ -55,21 +59,23 @@
                     
                     #mainphoto {
                         float: left;
-                        border: #313131 solid 1px;
+                        border: #313131 1px solid;
                         width: 500px;
+                        height: 560px;
                     }
                     
                     .meetpuppiesbutton {
                         float: right;
-                        border: #313131 solid 1px;
+                        border: #313131 1px solid;
                         width: 500px;
-                        height: 499.266px;
+                        height: 560px;
                     }
                     
                     .maincontent {
                         text-align: center;
                         border: #313131 1px solid;
                         width: 500px;
+                        height: 560px;
                     }
                     
                     p {
@@ -79,16 +85,14 @@
                     
                     .theparents {
                         float: right;
-                        border: #313131 solid 1px;
                         width: 500px;
                         height: 560px;
-                        position: relative;
-                        bottom: 560px;
                     }
                     
                     .dad,
                     .mom {
                         border: #313131 solid 1px;
+                        padding: 35px 5px;
                     }
                     
                     .daddescrip,
@@ -96,3 +100,14 @@
                         float: right;
                         width: 275px;
                     }
+                    
+                    .photosheader {
+                        position: relative;
+                        left: 250px;
+                    }
+                    
+                    .firstrowphotos {}
+                    
+                    .secondrowphotos {}
+                    
+                    .thirdrowphotos {}
