@@ -87,6 +87,27 @@
                     float: right;
                     width: 275px;
                 }
+                
+                .buttonbox {
+                    background-color: #E1533C;
+                    width: 180.75px;
+                }
+                /*took most of this button text code from w3css. Not sure how it worked again*/
+                
+                .buttontext {
+                    font: bold 15px Verdana, sans-serif;
+                    text-decoration: none;
+                    color: #333333;
+                    border: none;
+                    display: inline-block;
+                    padding: 8px 16px;
+                    vertical-align: middle;
+                    overflow: hidden;
+                    background-color: inherit;
+                    text-align: center;
+                    cursor: pointer;
+                    white-space: nowrap
+                }
                 /* I need help finding what actually helped from below and what is useless because I want to learn how they did it so I can replicate myself*/
                 /* FILLER */
                 /* FILLER */
